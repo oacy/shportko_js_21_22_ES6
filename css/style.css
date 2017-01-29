@@ -1,0 +1,23 @@
+.main{
+    display: block;
+    width: 700px;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.question{
+    float: left;
+}
+
+ul{
+    list-style: none;
+}
+
+.modal-content, h3{
+    text-align: center;
+}
+
+#foo{
+    display: block;
+    margin: 0 auto;
+}
